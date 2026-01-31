@@ -11,7 +11,7 @@
 
 <div align="left">
 
-🎓 **Final-year Engineering student**  
+🎓 **Third-year Engineering student**  
 💻 **Full Stack Developer** with strong backend & system design focus  
 🧠 Solved **500+ DSA problems** across competitive platforms  
 ⚡ Passionate about **scalable systems, real-time apps & clean UI/UX**  
@@ -25,8 +25,18 @@
 
 <div align="center">
   <table>
+    <!-- Languages -->
     <tr>
-      <td align="center" width="120"><b>Languages</b></td>
+      <td align="center" width="120">
+        <img 
+          src="https://techstack-generator.vercel.app/cpp-icon.svg" 
+          width="40" 
+          height="40" 
+          alt="Languages"
+        />
+        <br/>
+        <b>Languages</b>
+      </td>
       <td align="left">
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -34,8 +44,19 @@
         <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
       </td>
     </tr>
+
+    <!-- Frontend -->
     <tr>
-      <td align="center"><b>Frontend</b></td>
+      <td align="center" width="120">
+        <img 
+          src="https://techstack-generator.vercel.app/js-icon.svg" 
+          width="40" 
+          height="40" 
+          alt="Frontend"
+        />
+        <br/>
+        <b>Frontend</b>
+      </td>
       <td align="left">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -45,23 +66,56 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       </td>
     </tr>
+
+    <!-- Backend -->
     <tr>
-      <td align="center"><b>Backend</b></td>
+      <td align="center" width="120">
+        <img 
+          src="https://techstack-generator.vercel.app/nodejs-icon.svg" 
+          width="40" 
+          height="40" 
+          alt="Backend"
+        />
+        <br/>
+        <b>Backend</b>
+      </td>
       <td align="left">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
       </td>
     </tr>
+
+    <!-- Databases -->
     <tr>
-      <td align="center"><b>Databases</b></td>
+      <td align="center" width="120">
+        <img 
+          src="https://techstack-generator.vercel.app/mysql-icon.svg" 
+          width="40" 
+          height="40" 
+          alt="Databases"
+        />
+        <br/>
+        <b>Databases</b>
+      </td>
       <td align="left">
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
       </td>
     </tr>
+
+    <!-- Tools -->
     <tr>
-      <td align="center"><b>Tools</b></td>
+      <td align="center" width="120">
+        <img 
+          src="https://techstack-generator.vercel.app/git-icon.svg" 
+          width="40" 
+          height="40" 
+          alt="Tools"
+        />
+        <br/>
+        <b>Tools</b>
+      </td>
       <td align="left">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -73,6 +127,7 @@
     </tr>
   </table>
 </div>
+
 
 ---
 
