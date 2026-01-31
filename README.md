@@ -13,7 +13,7 @@
 💻 **Full Stack Developer** with strong backend & system design focus  
 🧠 Solved **500+ DSA problems** across competitive platforms  
 ⚡ Passionate about **scalable systems, real-time apps & clean UI/UX**  
-🚀 Love building platforms that help **students and developers grow**
+🚀 Love building **impactful products** that help students and developers grow  
 
 ---
 
@@ -78,42 +78,47 @@
 
 ### 💻 Full Stack Development Intern – **Glassberry**
 📍 Onsite | Pune  
-- Developed **production-grade MERN applications**  
-- Built responsive UIs using **React & Tailwind CSS**  
-- Designed and optimized **RESTful APIs**  
-- Collaborated with senior engineers on real business features  
+- Developed **production-grade MERN applications** used in real business workflows  
+- Built **responsive, performance-optimized UIs** using React & Tailwind CSS  
+- Designed and implemented **secure, scalable RESTful APIs**  
+- Worked closely with senior engineers on **architecture & feature planning**  
+- Improved application performance, code maintainability, and debugging efficiency  
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 🔥 CodeForge – Interactive DSA & Learning Platform
-- AI-assisted coding & real-time collaboration  
-- Topic-wise DSA practice with progress tracking  
+### 🔥 **CodeForge – Interactive DSA & Learning Platform**
+**Tech Stack:** MERN, WebSockets, AI Integration, Monaco Editor  
 
-### 🚀 BidSphere – Real-Time Online Auction Platform
-- Real-time bidding using WebSockets  
-- Role-based dashboards & automated workflows  
+**Key Highlights:**
+- 🧠 **AI-assisted coding support** for hints, explanations & code optimization  
+- 🤝 **Real-time collaboration** with live code editing using WebSockets  
+- 📊 **Topic-wise DSA tracking** with progress analytics & performance insights  
+- 🎥 **YouTube-based learning integration** mapped to DSA topics  
+- 🧩 **Monaco Editor** for an IDE-like coding experience  
+- 🔐 Secure authentication & role-based access  
 
 ---
 
+### 🚀 **BidSphere – Real-Time Online Auction Platform**
+**Tech Stack:** MERN, Socket.io, Email Services  
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishekjadhav2004&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekjadhav2004&layout=compact&theme=tokyonight" />
-</p>
+**Key Highlights:**
+- ⚡ **Real-time bidding engine** using WebSockets (Socket.io)  
+- 🏷️ **Auction scheduling system** with start/end automation  
+- 👥 **Role-based dashboards** for admin, seller & bidders  
+- 🏆 **Live leaderboard** & winner declaration logic  
+- 💰 **Automatic commission calculation**  
+- 📧 **Email notifications** for bids, winners & auction status  
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Next.js (SSR, ISR)
-- TypeScript for scalable systems
-- Backend system design
-- Real-time architectures
+- Advanced Next.js (SSR, ISR, App Router)
+- TypeScript for scalable architectures
+- Backend system design & performance optimization
+- Real-time systems (WebSockets, Socket.io)
 
 ---
 
@@ -130,5 +135,4 @@
 
 ---
 
-⭐ **Fun Fact:** Solved **500+ DSA problems** and love building clean, scalable backend systems.
-
+⭐ **Fun Fact:** Solved **500+ DSA problems** and enjoy designing scalable backend systems with clean architecture.
