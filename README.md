@@ -9,7 +9,7 @@
 
 ## 🎯 About Me
 
-🎓 **Third-year Engineering student**  
+🎓 **Final year Engineering student**  
 💻 **Full Stack Developer** with strong backend & system design focus  
 🧠 Solved **500+ DSA problems** across competitive platforms  
 ⚡ Passionate about **scalable systems, real-time apps & clean UI/UX**  
@@ -85,6 +85,15 @@
 - Improved application performance, code maintainability, and debugging efficiency  
 
 ---
+### 💻 Full Stack Web Developer Intern – **Baap Company**
+📍 Onsite | Sangamner  
+- Developed a **Task Management System** using the **MERN stack** for task assignment and team collaboration  
+- Implemented **JWT authentication** and **role-based access control (RBAC)** for secure access management  
+- Built and integrated **RESTful APIs** for user, team, and task management functionalities  
+- Used **Redux Toolkit** for efficient state management and improved application performance  
+- Designed **responsive dashboards** for task tracking, progress monitoring, and workflow management  
+- Implemented **form validation, error handling, and scalable architecture** for a reliable user experience  
+- Collaborated with team members to deliver **production-ready features** following modern development practices
 
 ## 🚀 Featured Projects
 
@@ -112,7 +121,21 @@
 - 💰 **Automatic commission calculation**  
 - 📧 **Email notifications** for bids, winners & auction status  
 
+
 ---
+
+### 💰 **Wealth – AI Finance Platform**
+**Tech Stack:** Next.js 15, React 19, Supabase, Prisma, Clerk, Inngest, Arcjet
+
+**Key Highlights:**
+- 🤖 Built an **AI-powered personal finance platform** for expense tracking and financial insights
+- 🔐 Implemented **secure authentication and authorization** using Clerk and Arcjet
+- 💸 Developed **transaction management, budget planning, and multi-currency support**
+- 📊 Designed **interactive analytics dashboards** and AI-driven financial recommendations
+- 🧾 Added **smart receipt scanning** and automated financial insights
+- ⚡ Integrated **Inngest background workflows** and built a responsive, scalable architecture
+
+🔗 **Repository:** https://github.com/Abhishekjadhav2004/wealth_Ai_Finanace_Finance-Platform
 
 ## 🌱 Currently Learning
 - Advanced Next.js (SSR, ISR, App Router)
